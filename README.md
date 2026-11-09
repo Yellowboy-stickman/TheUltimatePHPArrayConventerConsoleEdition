@@ -23,6 +23,35 @@ id;name;items
 2;Array 2;"Item 1|Item 2|Item 3"
 3;Array 3;"Item 2|Item 3"
 ```
+
+### Result:
+```
+<?php
+
+$anketa = [
+    [
+        'id' => 1,
+        'name' => 'Array 1',
+        'items' => ['Item 1', 'Item 2'],
+    ],
+    [
+        'id' => 2,
+        'name' => 'Array 2',
+        'items' => ['Item 1', 'Item 2', 'Item 3'],
+    ],
+    [
+        'id' => 3,
+        'name' => 'Array 3',
+        'items' => ['Item 2', 'Item 3'],
+    ],
+];
+
+print_r($anketa);
+
+?>
+
+```
+
 ### Where:
 ```
 ';' - array element separator;
