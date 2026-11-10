@@ -6,7 +6,8 @@ Just a console program, what can convert CSV table into a PHP array.
 2. Ensure that the table conforms to the syntax required for conversion (for more details, see "Syntax").
 3. Launch "TheUltimatePHPArrayConventer.exe".
 4. Enter table name.
-5. Profit.
+5. Enter array name.
+6. Profit.
 
 # Syntax
 ## example.csv
