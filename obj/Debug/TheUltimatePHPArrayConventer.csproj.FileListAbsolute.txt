@@ -1,0 +1,8 @@
+C:\Users\Mas-PB\Desktop\TheUltimatePHPArrayConventerConsoleEdition-main\obj\Debug\TheUltimatePHPArrayConventer.csproj.AssemblyReference.cache
+C:\Users\Mas-PB\Desktop\TheUltimatePHPArrayConventerConsoleEdition-main\obj\Debug\TheUltimatePHPArrayConventer.csproj.CoreCompileInputs.cache
+C:\Users\Mas-PB\Desktop\TheUltimatePHPArrayConventerConsoleEdition-main\obj\Debug\TheUltimatePHPArrayConventer.exe.config
+C:\Users\Mas-PB\Desktop\TheUltimatePHPArrayConventerConsoleEdition-main\bin\Debug\TheUltimatePHPArrayConventer.exe.config
+C:\Users\Mas-PB\Desktop\TheUltimatePHPArrayConventerConsoleEdition-main\bin\Debug\TheUltimatePHPArrayConventer.exe
+C:\Users\Mas-PB\Desktop\TheUltimatePHPArrayConventerConsoleEdition-main\bin\Debug\TheUltimatePHPArrayConventer.pdb
+C:\Users\Mas-PB\Desktop\TheUltimatePHPArrayConventerConsoleEdition-main\obj\Debug\TheUltimatePHPArrayConventer.exe
+C:\Users\Mas-PB\Desktop\TheUltimatePHPArrayConventerConsoleEdition-main\obj\Debug\TheUltimatePHPArrayConventer.pdb

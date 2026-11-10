@@ -35,12 +35,15 @@ namespace CsvToPhpConverter
                 return;
             }
 
+            Console.WriteLine("Enter array name (this should be conforms to snakeCase or CamelCase syntax)");
+            string arrayName = Console.ReadLine();
+
 
             // 1. Reading and parsing CSV
             var data = ParseCsv(inputPath);
 
             // 2. Generating PHP code
-            string phpCode = GeneratePhpArray(data, "anketa");
+            string phpCode = GeneratePhpArray(data, arrayName);
 
             // 3. Saving to a file
             File.WriteAllText(outputPath, phpCode, Encoding.UTF8);
